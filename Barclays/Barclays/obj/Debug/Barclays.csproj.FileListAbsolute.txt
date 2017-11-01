@@ -1,0 +1,5 @@
+c:\users\tliusis\documents\visual studio 2017\Projects\Barclays\Barclays\obj\Debug\Barclays.csprojResolveAssemblyReference.cache
+c:\users\tliusis\documents\visual studio 2017\Projects\Barclays\Barclays\bin\Debug\Barclays.dll
+c:\users\tliusis\documents\visual studio 2017\Projects\Barclays\Barclays\bin\Debug\Barclays.pdb
+c:\users\tliusis\documents\visual studio 2017\Projects\Barclays\Barclays\obj\Debug\Barclays.dll
+c:\users\tliusis\documents\visual studio 2017\Projects\Barclays\Barclays\obj\Debug\Barclays.pdb
